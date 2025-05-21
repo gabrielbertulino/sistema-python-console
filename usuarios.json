@@ -1,0 +1,36 @@
+{
+    "gabriel@gmail.com": {
+        "nome": "gabriel",
+        "idade": 18,
+        "senha": "JDJiJDEyJExZUnNKZW43eG13eGM0MmZqZTlwNHVuNEFsenVRbHgwSDk1ajkuSXpZcjB6VEZHcWlwWUpL",
+        "online": false,
+        "pontuacoes": [],
+        "tempos": []
+    },
+    "gabrielbir@gmail.com": {
+        "nome": "gabriel",
+        "idade": 19,
+        "email": "gabrielbir@gmail.com",
+        "senha": "$2b$12$2LTkTt9sGoJXsVAwRjYqpeJ/EE1F6alI5Rn5EHy7AmWlqHJrW0HiG",
+        "pontuacao": [
+            0
+        ],
+        "tempos": [
+            3.22
+        ],
+        "online": false
+    },
+    "erica@gmail.com": {
+        "nome": "Erica ",
+        "idade": 38,
+        "email": "erica@gmail.com",
+        "senha": "$2b$12$rKEBU8MFwUaPBjN8q21Ucu0GT.tQ.NgG0nFtEPsZ9U4QhpgTw2Mtq",
+        "pontuacao": [
+            0
+        ],
+        "tempos": [
+            24.35
+        ],
+        "online": false
+    }
+}
